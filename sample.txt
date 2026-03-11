@@ -1,0 +1,3 @@
+This is the first file creating in Github repository.
+I am working MCP sample code.
+For this, i am using GITHUB MCP.
